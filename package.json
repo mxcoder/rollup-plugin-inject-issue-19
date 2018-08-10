@@ -1,0 +1,21 @@
+{
+  "name": "rollup-plugin-inject-issue-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "0.63.5",
+    "rollup-plugin-inject": "2.2.0"
+  },
+  "eslint": {
+    "globals": [
+      "win",
+      "doc"
+    ]
+  }
+}
